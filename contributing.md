@@ -1,4 +1,4 @@
-# NegraTec API Contribua!
+# NegraTec API Contribua
 
 ## Utiliza
 
