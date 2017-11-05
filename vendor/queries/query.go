@@ -2,7 +2,7 @@ package queries
 
 import (
   "github.com/graphql-go/graphql"
-  "app/github.com/negratec/types"
+  "types"
 )
 
 var MentoraQuery *graphql.Object

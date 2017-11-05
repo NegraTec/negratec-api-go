@@ -4,7 +4,7 @@ import (
   "github.com/graphql-go/graphql"
   "github.com/stretchr/testify/assert"
   "testing"
-  "app/github.com/negratec/queries"
+  "queries"
 )
 
 var (dbMentoras []interface{})

@@ -4,7 +4,7 @@ import (
   "net/http"
   "github.com/graphql-go/graphql"
   "github.com/graphql-go/handler"
-  "app/github.com/negratec/queries"
+  "queries"
 )
 
 var schema, _ = graphql.NewSchema(graphql.SchemaConfig{
