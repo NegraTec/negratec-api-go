@@ -1,0 +1,8 @@
+ language: go
+  go:
+    - 1.8
+  install:
+    - go get -v github.com/graphql-go/graphql
+    - go get -v github.com/graphql-go/handler
+    - go get -v github.com/stretchr/testify
+  script: go test github.com/negratec
